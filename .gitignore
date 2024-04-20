@@ -1,1 +1,3 @@
-secret.yaml
+# Ignore secrets.yaml file
+secrets.yaml
+
